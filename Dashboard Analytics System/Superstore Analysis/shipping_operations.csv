@@ -1,0 +1,181 @@
+Ship Mode,Region,State,Avg_Delivery_Days,Orders_Handled,Shipping_Sales,Shipping_Profit,Operational_Risk
+First Class,Central,Illinois,2.4776119402985075,42,11104.405,-1858.4439000000007,Efficient
+First Class,Central,Indiana,2.375,10,3107.09,835.3822999999999,Efficient
+First Class,Central,Iowa,1.0,1,278.4,80.73599999999998,Efficient
+First Class,Central,Kansas,3.0,3,432.81,156.0501,Delayed
+First Class,Central,Michigan,2.3333333333333335,13,10934.046,3639.2955999999995,Efficient
+First Class,Central,Minnesota,2.5,6,2839.2200000000003,981.1409,Efficient
+First Class,Central,Missouri,1.75,5,521.66,136.3298,Efficient
+First Class,Central,Nebraska,1.7142857142857142,4,890.98,218.7624,Efficient
+First Class,Central,Oklahoma,2.0,4,1781.67,481.1673,Efficient
+First Class,Central,South Dakota,3.0,1,152.64000000000001,44.7684,Delayed
+First Class,Central,Texas,2.2777777777777777,76,22242.6644,-2331.659900000001,Efficient
+First Class,Central,Wisconsin,2.1666666666666665,9,4461.33,1323.7382000000002,Efficient
+First Class,East,Connecticut,2.1578947368421053,11,1943.02,570.6646999999999,Efficient
+First Class,East,Delaware,2.388888888888889,7,3067.136,864.6658,Efficient
+First Class,East,Maryland,2.3333333333333335,8,2413.681,430.28959999999995,Efficient
+First Class,East,Massachusetts,2.5,10,4996.76,1212.8017,Efficient
+First Class,East,New Hampshire,1.0,2,136.74,43.818,Efficient
+First Class,East,New Jersey,2.5,8,1214.84,453.807,Efficient
+First Class,East,New York,2.1620111731843576,80,60972.788,16755.253299999997,Efficient
+First Class,East,Ohio,2.3118279569892475,47,15615.939,-3494.8391000000006,Efficient
+First Class,East,Pennsylvania,2.2018348623853212,52,19068.829,-1967.361300000001,Efficient
+First Class,East,Rhode Island,1.9444444444444444,8,4157.32,862.9143999999999,Efficient
+First Class,South,Alabama,2.7777777777777777,4,3973.49,1634.8148,Efficient
+First Class,South,Arkansas,1.2,3,1465.76,632.4793,Efficient
+First Class,South,Florida,2.0555555555555554,28,8017.679,-83.79210000000015,Efficient
+First Class,South,Georgia,2.0,12,4463.1,1098.2801,Efficient
+First Class,South,Kentucky,2.230769230769231,8,2144.41,611.6745999999999,Efficient
+First Class,South,Louisiana,1.3,6,3727.97,539.5665000000001,Efficient
+First Class,South,Mississippi,3.0,1,514.03,179.39239999999998,Delayed
+First Class,South,North Carolina,2.0526315789473686,22,6047.6720000000005,246.2779999999999,Efficient
+First Class,South,South Carolina,2.6666666666666665,2,187.43,36.51189999999998,Efficient
+First Class,South,Tennessee,2.590909090909091,10,4277.305,-1251.7395000000001,Efficient
+First Class,South,Virginia,2.16,28,14513.72,3248.9193999999998,Efficient
+First Class,West,Arizona,1.8333333333333333,16,5809.603,-802.5980000000003,Efficient
+First Class,West,California,2.0838509316770186,164,79476.2545,12397.888199999998,Efficient
+First Class,West,Colorado,2.1818181818181817,22,4920.456,-1290.8187,Efficient
+First Class,West,Idaho,2.25,2,904.496,103.79459999999999,Efficient
+First Class,West,Montana,3.0,1,39.900000000000006,10.373999999999999,Delayed
+First Class,West,Nevada,1.8,4,1961.198,417.9082,Efficient
+First Class,West,New Mexico,1.0,1,159.99,54.39659999999999,Efficient
+First Class,West,Oregon,2.3333333333333335,12,3057.3210000000004,-404.04039999999986,Efficient
+First Class,West,Utah,1.75,3,1700.0700000000002,531.2441999999999,Efficient
+First Class,West,Washington,2.2205882352941178,31,31732.6,11620.024499999998,Efficient
+Same Day,Central,Illinois,0.0,9,3659.652,-247.97779999999995,Efficient
+Same Day,Central,Indiana,0.0,3,1451.92,367.8922,Efficient
+Same Day,Central,Iowa,0.0,1,6.48,3.1104000000000003,Efficient
+Same Day,Central,Kansas,0.0,1,33.29,7.989599999999999,Efficient
+Same Day,Central,Michigan,0.0,7,4154.044,1132.6022,Efficient
+Same Day,Central,Minnesota,0.0,1,375.71,131.8881,Efficient
+Same Day,Central,Missouri,0.0,1,248.82,84.4272,Efficient
+Same Day,Central,Nebraska,0.0,3,801.0999999999999,60.06379999999999,Efficient
+Same Day,Central,Oklahoma,0.0,5,3638.56,793.4979999999999,Efficient
+Same Day,Central,Texas,0.08333333333333333,28,5867.224,-859.6832,Efficient
+Same Day,Central,Wisconsin,0.0,3,178.60999999999999,58.0692,Efficient
+Same Day,East,Connecticut,0.0,5,1893.4969999999998,463.8963,Efficient
+Same Day,East,Delaware,0.0,1,162.51999999999998,78.335,Efficient
+Same Day,East,Maryland,0.0,3,4180.49,1103.7460999999998,Efficient
+Same Day,East,Massachusetts,0.0,3,955.4200000000001,266.08579999999995,Efficient
+Same Day,East,New Jersey,0.0,1,70.94999999999999,18.447000000000003,Efficient
+Same Day,East,New York,0.0,28,24553.338,6709.2456999999995,Efficient
+Same Day,East,Ohio,0.0,19,8843.002,-560.1442000000002,Efficient
+Same Day,East,Pennsylvania,0.0,13,1994.2710000000002,-22.39110000000013,Efficient
+Same Day,East,West Virginia,0.0,1,673.3439999999999,-76.9536,Efficient
+Same Day,South,Alabama,0.0,1,29.0,7.25,Efficient
+Same Day,South,Arkansas,0.0,1,117.62,58.428399999999996,Efficient
+Same Day,South,Florida,0.0,11,3918.622,331.8017,Efficient
+Same Day,South,Georgia,0.0,4,2545.17,866.1197,Efficient
+Same Day,South,Kentucky,0.0,2,169.45,56.05539999999999,Efficient
+Same Day,South,Louisiana,0.0,1,89.32000000000001,19.797600000000003,Efficient
+Same Day,South,Mississippi,0.0,1,839.25,336.78499999999997,Efficient
+Same Day,South,North Carolina,0.07142857142857142,11,12257.097,-3666.034399999999,Efficient
+Same Day,South,South Carolina,0.0,3,452.25000000000006,62.292999999999964,Efficient
+Same Day,South,Tennessee,0.0,1,80.56400000000001,-12.029200000000003,Efficient
+Same Day,South,Virginia,0.0,3,518.83,177.19779999999997,Efficient
+Same Day,West,Arizona,0.0625,10,2611.146,141.70950000000002,Efficient
+Same Day,West,California,0.09243697478991597,55,29779.230000000003,5594.611099999999,Efficient
+Same Day,West,Colorado,0.3333333333333333,4,1296.62,49.945300000000046,Efficient
+Same Day,West,Montana,0.0,1,8.288,2.693599999999999,Efficient
+Same Day,West,Nevada,0.0,1,475.944,59.49299999999995,Efficient
+Same Day,West,New Mexico,0.0,1,255.84999999999997,112.57400000000001,Efficient
+Same Day,West,Utah,0.0,1,97.918,13.830799999999996,Efficient
+Same Day,West,Washington,0.1282051282051282,16,9078.714,2167.0899,Efficient
+Second Class,Central,Illinois,3.8076923076923075,52,16998.09,-1519.8207000000004,Delayed
+Second Class,Central,Indiana,3.342857142857143,15,9678.09,3023.8794,Delayed
+Second Class,Central,Iowa,3.1,5,630.17,212.3078,Delayed
+Second Class,Central,Kansas,2.0,1,149.2,68.2124,Efficient
+Second Class,Central,Michigan,2.7708333333333335,25,17135.703,5339.4517,Efficient
+Second Class,Central,Minnesota,4.384615384615385,6,4091.19,1240.1361999999997,Delayed
+Second Class,Central,Missouri,4.285714285714286,9,9520.869999999999,1740.1399000000001,Delayed
+Second Class,Central,Nebraska,2.6666666666666665,4,193.57999999999998,91.74159999999999,Efficient
+Second Class,Central,North Dakota,2.0,1,891.53,216.59069999999997,Efficient
+Second Class,Central,Oklahoma,4.142857142857143,2,1289.01,353.7357,Delayed
+Second Class,Central,South Dakota,3.0,1,25.5,6.63,Delayed
+Second Class,Central,Texas,3.073298429319372,97,37323.2724,-2945.3641000000016,Delayed
+Second Class,Central,Wisconsin,3.0,6,5623.8,1287.1942999999999,Delayed
+Second Class,East,Connecticut,3.3636363636363638,5,3184.7999999999997,883.8836000000001,Delayed
+Second Class,East,Delaware,3.125,7,1286.62,454.78709999999995,Delayed
+Second Class,East,District of Columbia,5.0,2,111.68,48.2928,Delayed
+Second Class,East,Maryland,3.5,7,4160.950000000001,1303.2233999999999,Delayed
+Second Class,East,Massachusetts,3.1714285714285713,10,7972.942,2177.7041,Delayed
+Second Class,East,New Hampshire,2.909090909090909,6,4284.374,728.7683000000001,Efficient
+Second Class,East,New Jersey,2.8333333333333335,10,4435.19,1353.2555,Efficient
+Second Class,East,New York,3.5311004784688995,110,43743.551,8527.749699999998,Delayed
+Second Class,East,Ohio,2.978723404255319,51,13854.574999999999,-1900.3108,Delayed
+Second Class,East,Pennsylvania,3.208791208791209,48,26284.546000000002,-4854.4878,Delayed
+Second Class,East,Rhode Island,2.7142857142857144,9,6511.096,1885.6248999999998,Efficient
+Second Class,East,Vermont,2.0,1,715.2,178.79999999999998,Efficient
+Second Class,South,Alabama,3.1666666666666665,8,7870.35,2127.1661,Delayed
+Second Class,South,Arkansas,3.8,3,1506.3,424.9931999999999,Delayed
+Second Class,South,Florida,3.2388059701492535,36,15045.963500000002,540.0688999999998,Delayed
+Second Class,South,Georgia,2.870967741935484,19,11254.439999999999,3341.4858999999997,Efficient
+Second Class,South,Kentucky,3.1372549019607843,18,13498.88,3863.0139,Delayed
+Second Class,South,Louisiana,3.066666666666667,7,2793.86,809.6102,Delayed
+Second Class,South,Mississippi,3.7142857142857144,5,1716.78,576.0003,Delayed
+Second Class,South,North Carolina,3.2857142857142856,23,10439.240000000002,-1737.1353000000008,Delayed
+Second Class,South,South Carolina,3.4444444444444446,9,2544.52,558.4866,Delayed
+Second Class,South,Tennessee,3.0,15,5003.329000000001,-1116.9172999999998,Delayed
+Second Class,South,Virginia,3.186046511627907,20,21091.05,5018.878799999999,Delayed
+Second Class,SouthWest,Kentucky,3.0,1,993.8999999999999,261.49559999999997,Delayed
+Second Class,West,Arizona,3.5925925925925926,15,3642.8940000000002,-151.5379000000001,Delayed
+Second Class,West,California,3.1468354430379746,201,92692.9795,14762.883099999997,Delayed
+Second Class,West,Colorado,2.6666666666666665,12,4263.416,-65.38229999999994,Efficient
+Second Class,West,Idaho,2.0,2,530.416,115.3487,Efficient
+Second Class,West,Nevada,3.5833333333333335,6,6805.796,1993.7048999999997,Delayed
+Second Class,West,New Mexico,4.333333333333333,4,899.352,348.7072,Delayed
+Second Class,West,Oregon,2.6470588235294117,8,2727.4820000000004,80.02769999999981,Efficient
+Second Class,West,Utah,4.0,8,4464.218,1037.3029999999999,Delayed
+Second Class,West,Washington,3.123809523809524,54,29312.874000000003,4756.308399999999,Delayed
+Standard Class,Central,Illinois,4.966101694915254,173,48403.954,-8981.644600000003,Delayed
+Standard Class,Central,Indiana,5.168421052631579,45,39318.26,14155.7824,Delayed
+Standard Class,Central,Iowa,5.5,10,3664.7099999999996,887.6577000000001,Delayed
+Standard Class,Central,Kansas,4.866666666666666,9,2299.01,604.1913999999999,Delayed
+Standard Class,Central,Michigan,5.136904761904762,72,44045.821,14351.838099999999,Delayed
+Standard Class,Central,Minnesota,5.112903225806452,31,22557.030000000002,8470.0222,Delayed
+Standard Class,Central,Missouri,4.821428571428571,15,11913.800000000001,4475.3136,Delayed
+Standard Class,Central,Nebraska,4.809523809523809,12,5559.8099999999995,1661.4667999999997,Delayed
+Standard Class,Central,North Dakota,5.0,1,28.38,13.559,Delayed
+Standard Class,Central,Oklahoma,5.468085106382978,23,12974.15,3225.5549999999994,Delayed
+Standard Class,Central,South Dakota,4.888888888888889,3,1137.42,343.42990000000003,Delayed
+Standard Class,Central,Texas,4.908333333333333,285,104683.531,-19464.97510000001,Delayed
+Standard Class,Central,Wisconsin,4.8133333333333335,34,21184.989999999998,5719.4811,Delayed
+Standard Class,CentralWest,Nebraska,4.0,1,19.459999999999997,5.0596,Delayed
+Standard Class,CentralWest,Texas,4.0,1,71.35399999999998,-127.674,Delayed
+Standard Class,CentralWest,Wisconsin,7.0,1,665.88,13.317599999999999,Delayed
+Standard Class,East,Connecticut,5.166666666666667,24,6363.04,1593.0472000000002,Delayed
+Standard Class,East,Delaware,5.283333333333333,29,22934.792999999998,8579.5869,Delayed
+Standard Class,East,District of Columbia,6.0,2,2753.34,1011.2964999999999,Delayed
+Standard Class,East,Maine,5.0,3,1270.53,454.48619999999994,Delayed
+Standard Class,East,Maryland,5.015151515151516,28,12950.402,4193.9197,Delayed
+Standard Class,East,Massachusetts,4.75,39,14709.312,3128.91,Delayed
+Standard Class,East,New Hampshire,4.714285714285714,9,2871.41,933.9164999999998,Delayed
+Standard Class,East,New Jersey,5.186813186813187,42,30043.332,7947.404299999999,Delayed
+Standard Class,East,New York,5.088495575221239,344,181606.594,42046.2999,Delayed
+Standard Class,East,Ohio,4.895652173913043,119,39944.62,-11016.082500000002,Delayed
+Standard Class,East,Pennsylvania,4.703504043126685,175,69164.268,-8715.720100000002,Delayed
+Standard Class,East,Rhode Island,5.294117647058823,8,11959.539999999999,4537.09,Delayed
+Standard Class,East,Vermont,4.1,5,8214.17,2066.1783,Delayed
+Standard Class,East,West Virginia,4.0,1,536.48,262.8752,Delayed
+Standard Class,South,Alabama,5.121212121212121,21,7637.8,2017.5944,Delayed
+Standard Class,South,Arkansas,5.2105263157894735,20,8588.45,2892.7862,Delayed
+Standard Class,South,Florida,5.05982905982906,125,62491.4435,-4187.380200000003,Delayed
+Standard Class,South,Georgia,4.939655172413793,56,30833.13,10944.157599999999,Delayed
+Standard Class,South,Kentucky,5.014705882352941,32,19785.11,6407.4571,Delayed
+Standard Class,South,Louisiana,4.6,7,2605.88,827.1279999999999,Delayed
+Standard Class,South,Mississippi,4.82051282051282,19,7701.28,2080.7985000000003,Delayed
+Standard Class,South,North Carolina,5.025806451612903,80,26859.155000000002,-2334.0205000000014,Delayed
+Standard Class,South,South Carolina,5.0625,6,5297.51,1111.7651,Delayed
+Standard Class,South,Tennessee,4.985074626865671,65,21300.675000000003,-2961.0076,Delayed
+Standard Class,South,Virginia,4.888888888888889,64,34513.12,10152.954399999999,Delayed
+Standard Class,West,Arizona,5.302158273381295,67,23218.358,-2615.498200000001,Delayed
+Standard Class,West,California,4.989699570815451,601,255739.1675,43626.00469999999,Delayed
+Standard Class,West,Colorado,4.888888888888889,41,21627.626,-5221.602200000002,Delayed
+Standard Class,West,Idaho,4.615384615384615,7,2947.5739999999996,607.5798,Delayed
+Standard Class,West,Montana,5.076923076923077,6,5541.164,1820.2608999999998,Delayed
+Standard Class,West,Nevada,5.666666666666667,12,7486.164000000001,845.6597999999998,Delayed
+Standard Class,West,New Mexico,4.884615384615385,16,3468.33,641.4382999999999,Delayed
+Standard Class,West,Oregon,5.27710843373494,36,11646.347,-866.4577999999998,Delayed
+Standard Class,West,Utah,5.285714285714286,14,4957.85,964.1555,Delayed
+Standard Class,West,Washington,5.190476190476191,155,68517.082,14859.228899999998,Delayed
+Standard Class,West,Wyoming,5.0,1,1603.1360000000002,100.19599999999997,Delayed

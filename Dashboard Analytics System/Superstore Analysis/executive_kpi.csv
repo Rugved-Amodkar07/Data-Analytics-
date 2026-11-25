@@ -1,0 +1,578 @@
+Year,Month,Region,Category,Revenue,Profit,Orders,Quantity,Profitability_Status
+2016,April,Central,Furniture,1468.2179999999998,-243.38650000000007,3,11,Loss Making
+2016,April,Central,Office Supplies,1257.7939999999999,178.84499999999997,8,60,Profitable
+2016,April,Central,Technology,986.3280000000001,293.92019999999997,2,9,Profitable
+2016,April,East,Furniture,929.414,-141.1357,4,14,Loss Making
+2016,April,East,Office Supplies,1756.8200000000002,-172.5656999999999,11,88,Loss Making
+2016,April,East,Technology,368.67199999999997,93.07619999999997,4,18,Profitable
+2016,April,South,Furniture,2016.1040000000003,448.3016,5,16,Profitable
+2016,April,South,Office Supplies,7088.601999999999,665.2837000000001,13,107,Profitable
+2016,April,South,Technology,3079.906,737.0419000000002,8,34,Profitable
+2016,April,West,Furniture,3531.1009999999997,490.60069999999996,9,40,Profitable
+2016,April,West,Office Supplies,1051.858,328.64559999999994,19,90,Profitable
+2016,April,West,Technology,4760.528,810.2082,8,49,Profitable
+2016,August,Central,Furniture,964.482,58.54399999999995,3,10,Profitable
+2016,August,Central,Office Supplies,1186.531,201.7774,7,35,Profitable
+2016,August,Central,Technology,871.1700000000001,368.10540000000003,2,5,Profitable
+2016,August,East,Furniture,2010.4019999999998,77.61259999999987,4,17,Profitable
+2016,August,East,Office Supplies,1830.6860000000001,446.27320000000003,18,129,Profitable
+2016,August,East,Technology,741.36,277.92060000000004,4,15,Profitable
+2016,August,South,Furniture,2744.7625,524.4055,6,40,Profitable
+2016,August,South,Office Supplies,2719.1020000000003,327.187,12,78,Profitable
+2016,August,South,Technology,1592.7419999999997,475.37489999999985,6,34,Profitable
+2016,August,West,Furniture,1600.7,2.9096000000000295,10,40,Profitable
+2016,August,West,Office Supplies,5643.143,1792.3631,21,134,Profitable
+2016,August,West,Technology,6004.388000000001,765.6316999999999,12,72,Profitable
+2016,December,Central,Furniture,5442.586,233.0964000000001,14,66,Profitable
+2016,December,Central,Office Supplies,2722.482,211.5322999999997,29,126,Profitable
+2016,December,Central,Technology,2470.498,443.2184,11,51,Profitable
+2016,December,East,Furniture,7264.888,191.49639999999968,16,90,Profitable
+2016,December,East,Office Supplies,5454.114,1235.7736999999997,23,154,Profitable
+2016,December,East,Technology,11978.674,3426.7382999999995,14,45,Profitable
+2016,December,South,Furniture,6476.7,963.8251999999999,7,46,Profitable
+2016,December,South,Office Supplies,1331.575,212.64339999999993,18,69,Profitable
+2016,December,South,Technology,947.6980000000001,184.10320000000002,5,17,Profitable
+2016,December,West,Furniture,11461.7925,623.4017999999999,20,110,Profitable
+2016,December,West,Office Supplies,8498.291000000001,404.44589999999977,35,224,Profitable
+2016,December,West,Technology,5496.322,853.2948999999996,11,81,Profitable
+2016,February,Central,Furniture,439.31,64.07969999999999,3,13,Profitable
+2016,February,Central,Office Supplies,262.654,1.9793999999999947,8,47,Profitable
+2016,February,Central,Technology,531.21,228.74760000000006,2,9,Profitable
+2016,February,East,Office Supplies,84.416,13.148799999999998,2,8,Profitable
+2016,February,East,Technology,115.36,49.60480000000001,1,7,Profitable
+2016,February,South,Furniture,1256.22,75.37319999999994,1,6,Profitable
+2016,February,South,Office Supplies,50.79600000000001,3.182199999999998,3,8,Profitable
+2016,February,South,Technology,721.97,200.78410000000002,3,14,Profitable
+2016,February,West,Furniture,144.12800000000001,-18.761200000000017,2,4,Loss Making
+2016,February,West,Office Supplies,673.858,157.7806,9,40,Profitable
+2016,February,West,Technology,239.96999999999997,86.38919999999999,1,3,Profitable
+2016,January,Central,Furniture,506.358,20.923500000000026,3,11,Profitable
+2016,January,Central,Office Supplies,1002.348,87.81669999999998,8,48,Profitable
+2016,January,Central,Technology,31.200000000000003,9.749999999999996,1,3,Profitable
+2016,January,East,Furniture,199.00400000000002,-21.605800000000013,3,12,Loss Making
+2016,January,East,Office Supplies,112.97000000000001,13.299399999999997,4,18,Profitable
+2016,January,East,Technology,124.19999999999999,-31.05000000000001,1,3,Loss Making
+2016,January,South,Furniture,4378.728,1130.2567999999997,6,32,Profitable
+2016,January,South,Office Supplies,1955.4740000000002,339.33359999999993,7,54,Profitable
+2016,January,South,Technology,2987.89,877.0735999999999,5,39,Profitable
+2016,January,West,Furniture,1158.435,-324.10799999999995,5,15,Loss Making
+2016,January,West,Office Supplies,1780.2880000000002,348.5008999999999,7,49,Profitable
+2016,July,Central,Furniture,2185.8959999999997,-273.11399999999986,4,18,Loss Making
+2016,July,Central,Office Supplies,3446.5119999999993,-3816.9578000000015,12,87,Loss Making
+2016,July,Central,Technology,1108.1660000000002,34.738000000000014,6,26,Profitable
+2016,July,East,Furniture,1386.67,239.0158,5,20,Profitable
+2016,July,East,Office Supplies,527.262,164.9868,11,48,Profitable
+2016,July,East,Technology,1654.214,443.1339,8,18,Profitable
+2016,July,South,Furniture,456.214,61.93119999999998,3,16,Profitable
+2016,July,South,Office Supplies,317.01599999999996,122.92089999999999,7,52,Profitable
+2016,July,South,Technology,1055.8899999999999,235.17979999999997,2,5,Profitable
+2016,July,West,Furniture,6792.271000000001,346.4136999999997,13,60,Profitable
+2016,July,West,Office Supplies,10830.418,1047.0328999999995,22,146,Profitable
+2016,July,West,Technology,4185.8640000000005,553.2361999999998,7,54,Profitable
+2016,June,Central,Furniture,4284.0466,325.22569999999985,7,38,Profitable
+2016,June,Central,Office Supplies,4669.892,987.4608999999998,18,113,Profitable
+2016,June,Central,Technology,692.36,-66.56479999999996,2,7,Loss Making
+2016,June,East,Furniture,3672.689,-367.74880000000013,5,23,Loss Making
+2016,June,East,Office Supplies,3392.63,604.5133999999998,16,108,Profitable
+2016,June,East,Technology,3693.837,743.3765999999999,7,29,Profitable
+2016,June,South,Furniture,1823.842,301.68619999999993,5,18,Profitable
+2016,June,South,Office Supplies,1105.7289999999998,252.46299999999997,6,32,Profitable
+2016,June,South,Technology,1630.6799999999998,424.297,4,15,Profitable
+2016,June,West,Furniture,3425.5480000000002,337.1521999999997,8,43,Profitable
+2016,June,West,Office Supplies,3784.7860000000005,1186.9952999999998,10,69,Profitable
+2016,June,West,Technology,2419.088,247.66770000000008,4,26,Profitable
+2016,March,Central,Furniture,3639.29,-305.2842,6,35,Loss Making
+2016,March,Central,Office Supplies,1281.474,-226.98710000000005,13,77,Loss Making
+2016,March,Central,Technology,906.838,258.22459999999995,3,11,Profitable
+2016,March,East,Furniture,4273.374,-1399.4013,5,32,Loss Making
+2016,March,East,Office Supplies,1022.914,374.30769999999995,14,98,Profitable
+2016,March,East,Technology,647.1,215.9181,4,10,Profitable
+2016,March,South,Furniture,2740.56,414.5204000000001,6,31,Profitable
+2016,March,South,Office Supplies,1623.785,260.8796999999999,16,112,Profitable
+2016,March,South,Technology,28546.775999999998,-627.6753000000018,5,29,Loss Making
+2016,March,West,Furniture,3920.732,161.51009999999977,9,33,Profitable
+2016,March,West,Office Supplies,4677.706,862.2129999999997,15,83,Profitable
+2016,March,West,Technology,2410.46,510.50419999999997,7,34,Profitable
+2016,May,Central,Furniture,2304.382,-401.3119,9,34,Loss Making
+2016,May,Central,Office Supplies,797.5959999999999,-257.24240000000015,13,77,Loss Making
+2016,May,Central,Technology,946.5280000000001,152.53719999999998,4,10,Profitable
+2016,May,East,Furniture,2433.143,-67.83290000000002,6,28,Loss Making
+2016,May,East,Office Supplies,1718.0059999999999,626.847,14,93,Profitable
+2016,May,East,Technology,3098.9539999999997,195.4824000000001,4,14,Profitable
+2016,May,South,Furniture,310.88000000000005,23.31599999999999,1,2,Profitable
+2016,May,South,Office Supplies,3415.7760000000003,1052.7679,7,53,Profitable
+2016,May,South,Technology,2052.584,540.5822999999999,4,14,Profitable
+2016,May,West,Furniture,1864.382,95.95120000000003,7,33,Profitable
+2016,May,West,Office Supplies,1204.246,324.83189999999996,12,58,Profitable
+2016,May,West,Technology,3501.8100000000004,452.7809,8,50,Profitable
+2016,November,Central,Furniture,5189.900199999999,-239.74119999999996,13,56,Loss Making
+2016,November,Central,Office Supplies,5461.144,-624.7919000000012,28,197,Loss Making
+2016,November,Central,Technology,2740.644,57.056599999999904,12,48,Profitable
+2016,November,CentralWest,Office Supplies,665.88,13.317599999999999,1,6,Profitable
+2016,November,East,Furniture,8322.296,-57.444700000000296,18,81,Loss Making
+2016,November,East,Office Supplies,9871.389000000001,2146.6803999999997,35,180,Profitable
+2016,November,East,Technology,15757.086,3502.3965000000003,13,78,Profitable
+2016,November,South,Furniture,2014.038,-217.44040000000018,4,24,Loss Making
+2016,November,South,Office Supplies,2868.265,1004.1863,15,129,Profitable
+2016,November,South,Technology,2546.45,556.5969999999999,5,34,Profitable
+2016,November,West,Furniture,6038.6385,216.73049999999992,18,67,Profitable
+2016,November,West,Office Supplies,7995.758,1872.5636,40,229,Profitable
+2016,November,West,Technology,9157.228000000001,1062.0165999999995,21,90,Profitable
+2016,October,Central,Furniture,295.367,-90.76350000000004,3,8,Loss Making
+2016,October,Central,Office Supplies,1758.678,197.18149999999991,12,75,Profitable
+2016,October,Central,Technology,6911.712,1234.8233999999995,7,35,Profitable
+2016,October,East,Furniture,6725.66,-117.20319999999998,9,49,Loss Making
+2016,October,East,Office Supplies,1757.2060000000001,223.5399999999999,15,82,Profitable
+2016,October,East,Technology,462.25800000000004,-44.35830000000001,4,11,Loss Making
+2016,October,South,Furniture,2225.3540000000003,199.088,7,28,Profitable
+2016,October,South,Office Supplies,1147.018,82.64669999999998,10,42,Profitable
+2016,October,South,Technology,1441.382,372.0371999999999,3,10,Profitable
+2016,October,West,Furniture,3057.866,258.0431999999999,9,45,Profitable
+2016,October,West,Office Supplies,2548.226,614.2724,20,133,Profitable
+2016,October,West,Technology,3122.666,518.9499,13,55,Profitable
+2016,September,Central,Furniture,6189.827799999999,-253.4921000000004,12,59,Loss Making
+2016,September,Central,Office Supplies,12488.706,3668.376,20,143,Profitable
+2016,September,Central,Technology,15730.155999999999,-1992.0867000000026,10,62,Loss Making
+2016,September,East,Furniture,10015.199,1164.5895,20,84,Profitable
+2016,September,East,Office Supplies,8440.576000000001,1048.5215999999998,40,230,Profitable
+2016,September,East,Technology,6837.014,1961.7022000000002,10,52,Profitable
+2016,September,South,Furniture,524.6,75.31569999999998,4,14,Profitable
+2016,September,South,Office Supplies,2335.74,947.8204999999999,14,64,Profitable
+2016,September,South,Technology,4314.995000000001,-1368.1700000000005,6,18,Loss Making
+2016,September,West,Furniture,7086.854,872.1844999999997,13,51,Profitable
+2016,September,West,Office Supplies,4158.276,1034.8220999999999,28,187,Profitable
+2016,September,West,Technology,3655.407,1168.5161,7,36,Profitable
+2017,April,Central,Furniture,1723.783,-203.6054000000001,6,20,Loss Making
+2017,April,Central,Office Supplies,6692.142,393.6366999999995,15,103,Profitable
+2017,April,Central,Technology,3226.13,802.0294999999999,7,39,Profitable
+2017,April,East,Furniture,2476.044,92.42269999999994,5,28,Profitable
+2017,April,East,Office Supplies,2308.0119999999997,509.78589999999997,18,109,Profitable
+2017,April,East,Technology,2994.7400000000002,493.06399999999996,7,38,Profitable
+2017,April,South,Furniture,3959.7195,465.10039999999987,6,43,Profitable
+2017,April,South,Office Supplies,324.55400000000003,-96.7126,7,12,Loss Making
+2017,April,South,Technology,1434.06,398.9793,4,16,Profitable
+2017,April,West,Furniture,2316.152,-15.267500000000037,6,16,Loss Making
+2017,April,West,Office Supplies,3233.85,670.6495999999999,18,74,Profitable
+2017,April,West,Technology,3506.0220000000004,677.4136,11,45,Profitable
+2017,August,Central,Furniture,2956.9991999999997,-61.24560000000005,8,34,Loss Making
+2017,August,Central,Office Supplies,2198.032,88.25439999999972,12,92,Profitable
+2017,August,Central,Technology,4146.42,1004.5710999999998,3,19,Profitable
+2017,August,East,Furniture,2036.5439999999999,-434.7265,8,33,Loss Making
+2017,August,East,Office Supplies,4719.0,895.7953999999999,17,117,Profitable
+2017,August,East,Technology,2708.228,451.01800000000014,8,35,Profitable
+2017,August,South,Furniture,46.152,12.114900000000002,1,3,Profitable
+2017,August,South,Office Supplies,1043.788,359.00039999999996,6,50,Profitable
+2017,August,South,Technology,4494.8099999999995,1802.0559999999998,3,26,Profitable
+2017,August,West,Furniture,4598.897,-3.613700000000037,10,42,Loss Making
+2017,August,West,Office Supplies,3774.288,865.7028999999999,21,111,Profitable
+2017,August,West,Technology,4175.174,376.8810999999997,7,36,Profitable
+2017,December,Central,Furniture,3861.9991999999997,203.1059,11,50,Profitable
+2017,December,Central,Office Supplies,2030.126,428.1506999999999,26,128,Profitable
+2017,December,Central,Technology,10845.476,3560.2396,15,69,Profitable
+2017,December,East,Furniture,6442.579,-219.24940000000012,15,67,Loss Making
+2017,December,East,Office Supplies,4267.354,977.9860999999999,33,196,Profitable
+2017,December,East,Technology,13968.834,-770.9780000000004,17,67,Loss Making
+2017,December,South,Furniture,946.1120000000001,171.23379999999997,7,27,Profitable
+2017,December,South,Office Supplies,3570.208,-406.5425999999999,20,112,Loss Making
+2017,December,South,Technology,803.96,110.03289999999997,7,36,Profitable
+2017,December,West,Furniture,11835.129,273.7237999999996,19,113,Profitable
+2017,December,West,Office Supplies,6333.986,1632.3466999999998,46,248,Profitable
+2017,December,West,Technology,10013.758,2056.9163999999996,18,90,Profitable
+2017,February,Central,Furniture,69.184,-19.512,2,4,Loss Making
+2017,February,Central,Office Supplies,814.2520000000001,-88.76570000000005,4,19,Loss Making
+2017,February,Central,Technology,1644.15,439.2517,5,23,Profitable
+2017,February,East,Furniture,2137.542,335.7119999999999,3,21,Profitable
+2017,February,East,Office Supplies,3089.681,1389.11,10,60,Profitable
+2017,February,East,Technology,1235.9099999999999,81.76549999999995,4,12,Profitable
+2017,February,South,Furniture,551.264,15.566399999999952,1,10,Profitable
+2017,February,South,Office Supplies,575.26,204.00489999999996,3,24,Profitable
+2017,February,South,Technology,29.99,2.9989999999999988,1,1,Profitable
+2017,February,West,Furniture,376.38399999999996,63.128399999999985,3,10,Profitable
+2017,February,West,Office Supplies,888.8739999999999,309.7525999999999,7,46,Profitable
+2017,February,West,Technology,538.9200000000001,80.838,1,9,Profitable
+2017,January,Central,Furniture,1962.2235999999998,-754.7786000000002,4,24,Loss Making
+2017,January,Central,Office Supplies,149.888,67.27340000000001,5,23,Profitable
+2017,January,Central,Technology,398.40000000000003,84.65999999999998,1,5,Profitable
+2017,January,East,Furniture,1652.54,-672.2236,3,11,Loss Making
+2017,January,East,Office Supplies,711.476,196.1968,6,24,Profitable
+2017,January,East,Technology,2306.978,-1157.3612,3,30,Loss Making
+2017,January,South,Furniture,4489.8640000000005,-1793.1132000000002,2,27,Loss Making
+2017,January,South,Office Supplies,475.97,148.0315,4,28,Profitable
+2017,January,West,Furniture,3635.3140000000003,205.91539999999995,4,26,Profitable
+2017,January,West,Office Supplies,471.446,178.3952,5,35,Profitable
+2017,January,West,Technology,1919.976,215.99729999999977,1,3,Profitable
+2017,July,Central,Furniture,2636.159,-245.95589999999996,4,33,Loss Making
+2017,July,Central,Office Supplies,1232.304,-23.501700000000177,12,76,Loss Making
+2017,July,Central,Technology,3737.1040000000003,574.721,5,28,Profitable
+2017,July,East,Furniture,5270.522,234.64139999999978,11,66,Profitable
+2017,July,East,Office Supplies,1945.9,677.7450999999999,20,119,Profitable
+2017,July,East,Technology,4656.242,1438.5975999999998,8,34,Profitable
+2017,July,South,Furniture,852.116,103.71540000000002,7,25,Profitable
+2017,July,South,Office Supplies,721.3820000000001,325.94829999999996,9,54,Profitable
+2017,July,South,Technology,623.77,178.4875,4,24,Profitable
+2017,July,West,Furniture,4915.6230000000005,-417.4947000000003,8,38,Loss Making
+2017,July,West,Office Supplies,820.353,133.59119999999996,10,44,Profitable
+2017,July,West,Technology,1353.85,308.15310000000005,3,16,Profitable
+2017,June,Central,Furniture,1069.181,-571.7475000000002,3,18,Loss Making
+2017,June,Central,Office Supplies,1015.9899999999999,-136.42350000000013,10,59,Loss Making
+2017,June,Central,Technology,1628.016,287.49899999999997,5,14,Profitable
+2017,June,East,Furniture,2273.212,-183.01029999999994,7,28,Loss Making
+2017,June,East,Office Supplies,4647.832,1672.3294,14,63,Profitable
+2017,June,East,Technology,521.944,140.44600000000003,3,6,Profitable
+2017,June,South,Furniture,2439.296,45.89169999999983,7,30,Profitable
+2017,June,South,Office Supplies,4118.415,498.35139999999996,13,121,Profitable
+2017,June,South,Technology,1994.4560000000001,547.8749,9,28,Profitable
+2017,June,West,Furniture,1932.4900000000002,296.2063999999999,7,36,Profitable
+2017,June,West,Office Supplies,865.51,161.12909999999997,12,53,Profitable
+2017,June,West,Technology,2290.95,577.0106000000001,7,30,Profitable
+2017,March,Central,Furniture,4219.08,80.25359999999979,8,40,Profitable
+2017,March,Central,Office Supplies,916.806,-367.10979999999995,14,77,Loss Making
+2017,March,Central,Technology,1594.382,338.2702999999999,7,27,Profitable
+2017,March,East,Furniture,516.547,51.381699999999974,2,11,Profitable
+2017,March,East,Office Supplies,3993.228,1229.5884999999998,15,80,Profitable
+2017,March,East,Technology,1501.966,193.0327,6,22,Profitable
+2017,March,South,Furniture,1204.208,136.58029999999994,2,12,Profitable
+2017,March,South,Office Supplies,8589.983,3728.7079999999996,14,82,Profitable
+2017,March,South,Technology,527.904,117.57479999999998,2,12,Profitable
+2017,March,West,Furniture,6559.948,1186.8417,11,48,Profitable
+2017,March,West,Office Supplies,2382.5299999999997,816.6614999999999,14,75,Profitable
+2017,March,West,Technology,6719.67,2220.3144999999995,10,29,Profitable
+2017,May,Central,Furniture,3920.219,486.24809999999985,9,48,Profitable
+2017,May,Central,Office Supplies,1771.934,196.8764999999999,15,90,Profitable
+2017,May,Central,Technology,2931.75,280.80509999999987,7,25,Profitable
+2017,May,East,Furniture,1475.5779999999997,-48.711000000000006,7,34,Loss Making
+2017,May,East,Office Supplies,2763.54,648.0108999999999,17,125,Profitable
+2017,May,East,Technology,3242.306,1034.2376,4,17,Profitable
+2017,May,South,Furniture,226.688,34.69119999999999,2,7,Profitable
+2017,May,South,Office Supplies,714.104,217.33059999999995,8,34,Profitable
+2017,May,South,Technology,1042.912,177.22959999999992,4,19,Profitable
+2017,May,West,Furniture,3752.4655,428.3563999999997,6,37,Profitable
+2017,May,West,Office Supplies,3864.158,669.3958999999999,16,113,Profitable
+2017,May,West,Technology,4426.032,543.3980999999997,5,26,Profitable
+2017,November,Central,Furniture,6187.755999999999,619.9780999999996,14,75,Profitable
+2017,November,Central,Office Supplies,7212.544,1377.1480999999997,28,207,Profitable
+2017,November,Central,Technology,5431.432,1392.1486,14,42,Profitable
+2017,November,CentralWest,Office Supplies,71.35399999999998,-127.674,1,8,Loss Making
+2017,November,East,Furniture,15101.173999999999,1924.9010999999996,21,109,Profitable
+2017,November,East,Office Supplies,6020.090999999999,1212.6612999999998,37,246,Profitable
+2017,November,East,Technology,13603.496000000001,4724.7536,16,72,Profitable
+2017,November,South,Furniture,3139.5175,100.55459999999997,12,41,Profitable
+2017,November,South,Office Supplies,3922.91,-584.2984000000002,16,126,Loss Making
+2017,November,South,Technology,733.393,84.42939999999996,6,20,Profitable
+2017,November,West,Furniture,6452.385,346.5901999999998,20,85,Profitable
+2017,November,West,Office Supplies,3991.231,922.1918999999999,32,212,Profitable
+2017,November,West,Technology,4105.280000000001,481.40389999999996,15,67,Profitable
+2017,October,Central,Furniture,3412.057,-544.9025999999999,6,26,Loss Making
+2017,October,Central,Office Supplies,719.125,-47.08640000000006,17,84,Loss Making
+2017,October,Central,Technology,2869.304,640.6477999999998,10,42,Profitable
+2017,October,East,Furniture,2126.692,211.95519999999993,5,17,Profitable
+2017,October,East,Office Supplies,604.904,220.69299999999998,13,65,Profitable
+2017,October,East,Technology,3570.434,1027.6605,11,33,Profitable
+2017,October,South,Furniture,1695.6675,-239.99290000000005,4,23,Loss Making
+2017,October,South,Office Supplies,2238.572,-241.24560000000005,10,43,Loss Making
+2017,October,South,Technology,151.488,11.189500000000004,2,16,Profitable
+2017,October,West,Furniture,4792.207,-32.575999999999965,14,74,Loss Making
+2017,October,West,Office Supplies,5110.809,1158.5765,22,163,Profitable
+2017,October,West,Technology,4113.664000000001,652.4469999999999,11,45,Profitable
+2017,September,Central,Furniture,3573.406,781.1246,10,39,Profitable
+2017,September,Central,Office Supplies,636.894,19.263899999999964,15,75,Profitable
+2017,September,Central,Technology,3368.2200000000003,762.9529999999999,5,30,Profitable
+2017,September,East,Furniture,12308.458000000002,-1340.5065000000004,14,50,Loss Making
+2017,September,East,Office Supplies,7584.227,1410.7399999999998,36,248,Profitable
+2017,September,East,Technology,9548.302,2441.5474999999997,19,89,Profitable
+2017,September,South,Furniture,4553.21,1156.2637999999997,10,44,Profitable
+2017,September,South,Office Supplies,4958.149,-542.4739,17,124,Loss Making
+2017,September,South,Technology,4166.128000000001,1069.0326999999997,7,44,Profitable
+2017,September,West,Furniture,5837.9490000000005,753.2366000000001,16,72,Profitable
+2017,September,West,Office Supplies,6126.497,1150.3536999999997,38,238,Profitable
+2017,September,West,Technology,1934.478,547.6273,10,33,Profitable
+2018,April,Central,Furniture,2233.828,202.22539999999998,7,29,Profitable
+2018,April,Central,Office Supplies,3377.4739999999997,-1977.226500000001,12,66,Loss Making
+2018,April,Central,Technology,1851.0500000000002,430.7350999999999,6,22,Profitable
+2018,April,East,Furniture,3097.364,449.67859999999996,7,24,Profitable
+2018,April,East,Office Supplies,3995.272,386.91610000000003,24,160,Profitable
+2018,April,East,Technology,10747.332,2701.8989999999994,7,26,Profitable
+2018,April,South,Furniture,963.524,219.6006,6,30,Profitable
+2018,April,South,Office Supplies,1049.992,49.37499999999999,11,58,Profitable
+2018,April,South,Technology,952.194,157.85349999999994,5,24,Profitable
+2018,April,West,Furniture,6917.374,-506.6712000000001,13,63,Loss Making
+2018,April,West,Office Supplies,2224.709,440.4533,19,124,Profitable
+2018,April,West,Technology,1339.9260000000002,422.9759999999999,3,9,Profitable
+2018,August,Central,Furniture,1908.3927999999999,24.420400000000058,6,24,Profitable
+2018,August,Central,Office Supplies,1829.9080000000001,-146.0471000000001,19,114,Loss Making
+2018,August,Central,Technology,3244.2540000000004,317.5291000000001,9,44,Profitable
+2018,August,East,Furniture,3199.849,-723.1316000000003,8,35,Loss Making
+2018,August,East,Office Supplies,4534.272,1104.4747,15,135,Profitable
+2018,August,East,Technology,1530.836,30.17919999999998,7,33,Profitable
+2018,August,South,Furniture,1083.9285000000002,-145.90310000000008,4,21,Loss Making
+2018,August,South,Office Supplies,1143.7740000000001,228.36399999999992,12,74,Profitable
+2018,August,South,Technology,822.308,90.14860000000007,3,11,Profitable
+2018,August,West,Furniture,6291.062000000001,350.4685999999998,9,35,Profitable
+2018,August,West,Office Supplies,1451.786,442.3997,21,120,Profitable
+2018,August,West,Technology,4075.004,489.1668000000001,12,47,Profitable
+2018,December,Central,Furniture,10481.717999999999,1380.4943999999998,17,87,Profitable
+2018,December,Central,Office Supplies,11236.563,5339.8515,24,133,Profitable
+2018,December,Central,Technology,3597.5800000000004,555.8215999999999,9,56,Profitable
+2018,December,CentralWest,Office Supplies,19.459999999999997,5.0596,1,7,Profitable
+2018,December,East,Furniture,9121.301,733.5490999999995,18,82,Profitable
+2018,December,East,Office Supplies,11776.133,3439.4314,41,239,Profitable
+2018,December,East,Technology,6747.766,1354.9369,12,42,Profitable
+2018,December,South,Furniture,2683.944,656.7715999999999,7,37,Profitable
+2018,December,South,Office Supplies,5302.3240000000005,494.97540000000004,18,108,Profitable
+2018,December,South,Technology,2910.754,597.138,8,40,Profitable
+2018,December,West,Furniture,14391.752,57.85639999999965,27,137,Profitable
+2018,December,West,Office Supplies,9663.086,2187.3506999999995,45,350,Profitable
+2018,December,West,Technology,9066.662,1082.0727000000002,17,96,Profitable
+2018,February,Central,Furniture,394.43399999999997,-87.053,4,11,Loss Making
+2018,February,Central,Office Supplies,651.364,-56.211600000000026,3,23,Loss Making
+2018,February,Central,Technology,69.93,0.6992999999999991,1,7,Profitable
+2018,February,East,Furniture,1364.807,144.03639999999996,6,28,Profitable
+2018,February,East,Office Supplies,1564.584,364.53869999999995,12,51,Profitable
+2018,February,East,Technology,220.43,65.1106,3,7,Profitable
+2018,February,South,Furniture,1594.214,309.12899999999996,5,24,Profitable
+2018,February,South,Office Supplies,3451.284,773.6854,9,74,Profitable
+2018,February,South,Technology,10567.606000000002,3102.2465999999995,4,18,Profitable
+2018,February,West,Furniture,572.096,10.922799999999995,2,6,Profitable
+2018,February,West,Office Supplies,1127.118,247.98839999999998,7,36,Profitable
+2018,February,West,Technology,1400.948,129.48689999999993,5,21,Profitable
+2018,January,Central,Furniture,3807.906,208.14870000000008,4,19,Profitable
+2018,January,Central,Office Supplies,317.642,119.84909999999999,6,24,Profitable
+2018,January,Central,Technology,1816.6080000000002,146.09480000000005,2,14,Profitable
+2018,January,East,Furniture,1108.189,8.40170000000002,6,27,Profitable
+2018,January,East,Office Supplies,2581.868,522.6648999999999,11,86,Profitable
+2018,January,East,Technology,1170.03,267.96009999999995,6,20,Profitable
+2018,January,South,Furniture,781.184,-31.811199999999957,2,20,Loss Making
+2018,January,South,Office Supplies,1665.8339999999998,730.9290000000001,6,31,Profitable
+2018,January,South,Technology,1635.408,208.3407999999999,4,18,Profitable
+2018,January,West,Furniture,1925.4640000000002,119.22149999999996,6,35,Profitable
+2018,January,West,Office Supplies,734.338,231.0282,9,44,Profitable
+2018,January,West,Technology,998.0200000000001,293.9957,4,20,Profitable
+2018,July,Central,Furniture,1950.762,-279.22300000000007,6,40,Loss Making
+2018,July,Central,Office Supplies,4242.706,543.2457999999999,17,117,Profitable
+2018,July,Central,Technology,2700.996,541.9933,7,45,Profitable
+2018,July,East,Furniture,1622.704,74.73639999999993,6,22,Profitable
+2018,July,East,Office Supplies,3703.384,-411.5994,20,142,Loss Making
+2018,July,East,Technology,3198.109,45.58969999999999,7,26,Profitable
+2018,July,South,Furniture,3677.04,646.0774000000002,5,26,Profitable
+2018,July,South,Office Supplies,1690.964,360.2331,14,89,Profitable
+2018,July,South,Technology,1194.4150000000002,-34.516800000000096,4,10,Loss Making
+2018,July,West,Furniture,5818.013,597.3164999999996,12,71,Profitable
+2018,July,West,Office Supplies,3287.3900000000003,632.0806999999999,24,125,Profitable
+2018,July,West,Technology,6175.480000000001,1716.9441999999997,10,45,Profitable
+2018,June,Central,Furniture,2419.783,-460.69230000000005,7,40,Loss Making
+2018,June,Central,Office Supplies,1419.718,283.67379999999997,14,94,Profitable
+2018,June,Central,Technology,2713.647,366.9489000000001,10,38,Profitable
+2018,June,East,Furniture,2762.682,-273.9606000000001,10,33,Loss Making
+2018,June,East,Office Supplies,6492.164000000001,1230.0822999999998,26,207,Profitable
+2018,June,East,Technology,2482.56,642.4322999999999,7,30,Profitable
+2018,June,South,Furniture,1266.86,291.37779999999987,1,7,Profitable
+2018,June,South,Office Supplies,717.276,172.9593,6,30,Profitable
+2018,June,South,Technology,1471.749,222.10030000000003,5,18,Profitable
+2018,June,West,Furniture,6621.247,337.00859999999983,12,48,Profitable
+2018,June,West,Office Supplies,2272.652,780.7739999999999,21,159,Profitable
+2018,June,West,Technology,9704.196000000002,1157.6736999999996,8,38,Profitable
+2018,March,Central,Furniture,5019.5109999999995,-522.4795999999999,11,49,Loss Making
+2018,March,Central,Office Supplies,5030.656,-529.2528000000004,16,82,Loss Making
+2018,March,Central,Technology,3103.646,445.6920999999998,9,40,Profitable
+2018,March,East,Furniture,4515.019,-139.02190000000002,14,67,Loss Making
+2018,March,East,Office Supplies,3807.4139999999998,770.5528999999999,16,86,Profitable
+2018,March,East,Technology,8442.424,1812.6564999999998,12,54,Profitable
+2018,March,South,Furniture,643.652,31.59809999999998,6,24,Profitable
+2018,March,South,Office Supplies,2110.5860000000002,464.7531000000001,10,47,Profitable
+2018,March,South,Technology,1483.9360000000001,67.25109999999998,2,8,Profitable
+2018,March,West,Furniture,2622.9100000000003,74.63539999999992,7,22,Profitable
+2018,March,West,Office Supplies,6398.275,355.3523999999998,15,72,Profitable
+2018,March,West,Technology,8537.846,780.2306999999997,8,28,Profitable
+2018,May,Central,Furniture,4610.925,438.56920000000014,8,36,Profitable
+2018,May,Central,Office Supplies,4327.498,718.8105999999998,16,133,Profitable
+2018,May,Central,Technology,2805.542,219.4683,7,26,Profitable
+2018,May,East,Furniture,1606.324,315.5893,11,55,Profitable
+2018,May,East,Office Supplies,4319.4400000000005,608.431,23,129,Profitable
+2018,May,East,Technology,16663.519,2607.8922999999986,9,56,Profitable
+2018,May,South,Furniture,3982.04,444.24559999999974,9,47,Profitable
+2018,May,South,Office Supplies,3273.603,748.7224,24,157,Profitable
+2018,May,South,Technology,4704.59,1076.1162,7,28,Profitable
+2018,May,West,Furniture,4920.546,626.0697999999999,10,43,Profitable
+2018,May,West,Office Supplies,1114.661,321.5384,21,102,Profitable
+2018,May,West,Technology,4659.04,536.6933000000001,9,51,Profitable
+2018,November,Central,Furniture,8186.6948,-181.85320000000002,16,83,Loss Making
+2018,November,Central,Office Supplies,4393.066,810.6146999999997,30,209,Profitable
+2018,November,Central,Technology,4330.5560000000005,841.9848999999999,20,86,Profitable
+2018,November,East,Furniture,6612.935,6.311799999999792,16,85,Profitable
+2018,November,East,Office Supplies,4456.892000000001,578.4523999999999,37,246,Profitable
+2018,November,East,Technology,11912.262,-5427.0061000000005,21,95,Loss Making
+2018,November,South,Furniture,4841.353,-232.01610000000028,10,56,Loss Making
+2018,November,South,Office Supplies,4230.192,717.7392999999998,18,99,Profitable
+2018,November,South,Technology,5531.110000000001,2193.0593000000003,10,33,Profitable
+2018,November,SouthWest,Stationary,993.8999999999999,261.49559999999997,1,5,Profitable
+2018,November,West,Furniture,11148.746000000001,965.8706999999995,22,89,Profitable
+2018,November,West,Office Supplies,7407.128000000001,2580.1186,39,265,Profitable
+2018,November,West,Technology,5367.131,896.6356,17,55,Profitable
+2018,October,Central,Furniture,825.7739999999999,-110.97699999999999,10,48,Loss Making
+2018,October,Central,Office Supplies,4636.26,1564.0937,17,114,Profitable
+2018,October,Central,Technology,20370.317999999996,9307.744299999998,9,36,Profitable
+2018,October,East,Furniture,5347.6810000000005,176.23099999999988,14,55,Profitable
+2018,October,East,Office Supplies,2868.656,693.2389000000002,16,106,Profitable
+2018,October,East,Technology,6849.128000000001,2812.1405,5,34,Profitable
+2018,October,South,Furniture,828.696,182.7558,7,24,Profitable
+2018,October,South,Office Supplies,1237.218,78.26269999999995,11,85,Profitable
+2018,October,South,Technology,1099.3200000000002,122.10900000000004,4,12,Profitable
+2018,October,West,Furniture,4870.426,-392.66980000000035,12,60,Loss Making
+2018,October,West,Office Supplies,7539.660000000002,2344.4597,25,160,Profitable
+2018,October,West,Technology,3214.608,-534.2462999999999,8,33,Loss Making
+2018,September,Central,Furniture,8933.453399999999,-865.0872000000003,18,90,Loss Making
+2018,September,Central,Office Supplies,4310.474,-284.30880000000025,41,222,Loss Making
+2018,September,Central,Technology,4259.278,585.8063999999998,13,51,Profitable
+2018,September,East,Furniture,6028.317,640.6924999999999,20,79,Profitable
+2018,September,East,Office Supplies,11701.129,2211.9061999999994,40,202,Profitable
+2018,September,East,Technology,2533.046,315.6022999999999,9,35,Profitable
+2018,September,South,Furniture,4581.106,513.0951999999999,10,28,Profitable
+2018,September,South,Office Supplies,2793.581,504.5620999999999,21,143,Profitable
+2018,September,South,Technology,4648.764,1429.9847,11,50,Profitable
+2018,September,West,Furniture,7720.0045,413.9019999999997,21,87,Profitable
+2018,September,West,Office Supplies,4458.554,1281.8821999999998,44,267,Profitable
+2018,September,West,Technology,11442.318000000001,2580.6199999999994,14,62,Profitable
+2019,April,Central,Furniture,1179.1316,30.99710000000002,5,20,Profitable
+2019,April,Central,Office Supplies,1521.1,-39.055000000000184,19,95,Loss Making
+2019,April,Central,Technology,682.892,132.64209999999997,4,16,Profitable
+2019,April,East,Furniture,2745.156,225.77660000000003,9,40,Profitable
+2019,April,East,Office Supplies,6328.458,1069.7082,29,150,Profitable
+2019,April,East,Technology,1157.292,-95.97499999999997,6,16,Loss Making
+2019,April,South,Furniture,2846.9925000000003,-320.5257000000001,10,56,Loss Making
+2019,April,South,Office Supplies,4553.877,1442.9977999999999,20,85,Profitable
+2019,April,South,Technology,2046.8840000000002,234.17869999999976,8,21,Profitable
+2019,April,West,Furniture,2294.678,266.2143999999999,13,59,Profitable
+2019,April,West,Office Supplies,2668.756,896.9504999999999,21,138,Profitable
+2019,April,West,Technology,8496.319,-2910.6197000000016,7,37,Loss Making
+2019,August,Central,Furniture,461.008,-79.41939999999998,4,15,Loss Making
+2019,August,Central,Office Supplies,2344.942,433.8098999999999,20,161,Profitable
+2019,August,Central,Technology,3447.0440000000003,176.98209999999978,8,28,Profitable
+2019,August,East,Furniture,8848.094,-544.1150000000001,8,40,Loss Making
+2019,August,East,Office Supplies,9556.474,2150.015799999999,24,144,Profitable
+2019,August,East,Technology,2353.898,577.0185999999999,5,25,Profitable
+2019,August,South,Furniture,1485.956,304.0524,4,17,Profitable
+2019,August,South,Office Supplies,3298.1460000000006,-736.2719999999996,13,84,Loss Making
+2019,August,South,Technology,5587.432000000001,613.3575,8,32,Profitable
+2019,August,West,Furniture,4646.816,641.7209999999999,14,55,Profitable
+2019,August,West,Office Supplies,14860.29,4220.304499999999,32,224,Profitable
+2019,August,West,Technology,6230.7880000000005,1283.5003,11,59,Profitable
+2019,December,Central,Furniture,6504.886799999999,318.03890000000007,16,63,Profitable
+2019,December,Central,Office Supplies,7870.802,-2821.5387000000005,44,252,Loss Making
+2019,December,Central,Technology,4507.382,1265.1243999999997,12,54,Profitable
+2019,December,East,Furniture,6954.866,547.5687999999998,29,99,Profitable
+2019,December,East,Office Supplies,8232.31,1603.6966999999997,49,310,Profitable
+2019,December,East,Technology,4897.24,1073.8338999999999,21,75,Profitable
+2019,December,South,Furniture,5585.283,279.2939,13,61,Profitable
+2019,December,South,Office Supplies,5108.69,850.5312999999998,21,129,Profitable
+2019,December,South,Technology,4515.764,1197.4726999999998,13,49,Profitable
+2019,December,West,Furniture,12362.431,1.8531999999996742,26,171,Profitable
+2019,December,West,Office Supplies,9225.140000000001,2141.6239,57,370,Profitable
+2019,December,West,Technology,8064.524,2025.8477999999998,17,90,Profitable
+2019,February,Central,Furniture,1204.4604,-327.3723000000001,5,11,Loss Making
+2019,February,Central,Office Supplies,1391.346,-608.0694000000001,8,56,Loss Making
+2019,February,Central,Technology,739.0160000000001,-63.74390000000005,4,8,Loss Making
+2019,February,East,Furniture,1773.896,-84.54360000000017,3,15,Loss Making
+2019,February,East,Office Supplies,1514.8120000000001,314.73349999999994,15,67,Profitable
+2019,February,East,Technology,1679.814,264.26319999999976,5,18,Profitable
+2019,February,South,Furniture,788.674,62.85319999999996,2,10,Profitable
+2019,February,South,Office Supplies,1365.038,399.0649999999999,2,12,Profitable
+2019,February,South,Technology,29.160000000000004,8.456399999999999,1,3,Profitable
+2019,February,West,Furniture,3099.3070000000002,150.02059999999986,11,35,Profitable
+2019,February,West,Office Supplies,3136.576,848.0961999999998,17,87,Profitable
+2019,February,West,Technology,3579.034,650.1130999999999,10,41,Profitable
+2019,January,Central,Furniture,2230.009,-256.1772000000001,9,35,Loss Making
+2019,January,Central,Office Supplies,12704.287999999999,1724.8842000000002,19,149,Profitable
+2019,January,Central,Technology,6756.359,1397.2274999999995,6,40,Profitable
+2019,January,East,Furniture,1213.6609999999998,-30.29109999999997,4,14,Loss Making
+2019,January,East,Office Supplies,2972.2149999999997,321.90009999999984,10,42,Profitable
+2019,January,East,Technology,1197.408,64.2604,4,20,Profitable
+2019,January,South,Furniture,481.856,-43.6488,2,8,Loss Making
+2019,January,South,Office Supplies,578.2,9.705300000000022,8,65,Profitable
+2019,January,South,Technology,3755.5340000000006,744.2458000000001,4,16,Profitable
+2019,January,West,Furniture,2038.506,290.6769,6,29,Profitable
+2019,January,West,Office Supplies,5019.586,1203.9570999999999,17,139,Profitable
+2019,January,West,Technology,5023.7519999999995,1713.6988999999999,11,40,Profitable
+2019,July,Central,Furniture,2301.7439999999997,-323.4526000000001,8,35,Loss Making
+2019,July,Central,Office Supplies,4152.928,774.6413999999999,22,144,Profitable
+2019,July,Central,Technology,2418.284,576.6015,9,29,Profitable
+2019,July,East,Furniture,2821.529,128.65599999999998,14,57,Profitable
+2019,July,East,Office Supplies,3226.86,831.6523,27,162,Profitable
+2019,July,East,Technology,6273.433999999999,157.81539999999987,16,79,Profitable
+2019,July,South,Furniture,2002.8860000000002,295.25469999999996,9,28,Profitable
+2019,July,South,Office Supplies,651.858,129.99599999999998,5,33,Profitable
+2019,July,South,Technology,647.3539999999999,152.70170000000002,5,16,Profitable
+2019,July,West,Furniture,4686.863,224.16629999999992,14,63,Profitable
+2019,July,West,Office Supplies,2209.822,826.9947999999999,21,120,Profitable
+2019,July,West,Technology,13870.854000000001,3177.5937,13,74,Profitable
+2019,June,Central,Furniture,5340.7652,109.19399999999985,10,47,Profitable
+2019,June,Central,Office Supplies,4775.696,649.8400999999998,26,133,Profitable
+2019,June,Central,Technology,2850.3,450.46229999999986,8,28,Profitable
+2019,June,East,Furniture,4832.552,10.893899999999977,10,46,Profitable
+2019,June,East,Office Supplies,4279.501,1005.5656999999999,26,144,Profitable
+2019,June,East,Technology,6049.172,2085.3002,12,72,Profitable
+2019,June,South,Furniture,2301.988,192.5739999999999,10,34,Profitable
+2019,June,South,Office Supplies,2497.7540000000004,425.13969999999983,18,98,Profitable
+2019,June,South,Technology,4134.178,514.8484000000001,5,28,Profitable
+2019,June,West,Furniture,6533.2815,592.3336999999998,13,49,Profitable
+2019,June,West,Office Supplies,5359.088,1298.4365999999998,33,191,Profitable
+2019,June,West,Technology,4027.4500000000003,888.7470999999998,13,61,Profitable
+2019,March,Central,Furniture,7286.7988000000005,641.7255999999995,11,47,Profitable
+2019,March,Central,Office Supplies,3236.214,347.2944999999997,23,137,Profitable
+2019,March,Central,Technology,4981.566000000001,1065.6241,9,34,Profitable
+2019,March,East,Furniture,1579.212,146.50609999999992,11,29,Profitable
+2019,March,East,Office Supplies,2256.572,669.2537,21,125,Profitable
+2019,March,East,Technology,3864.172,372.3680999999999,16,73,Profitable
+2019,March,South,Furniture,353.1,84.03999999999999,2,7,Profitable
+2019,March,South,Office Supplies,2059.42,479.5158,12,72,Profitable
+2019,March,South,Technology,4231.2,1830.5183000000002,5,23,Profitable
+2019,March,West,Furniture,1674.334,128.58149999999992,7,40,Profitable
+2019,March,West,Office Supplies,6998.08,1219.8983999999998,31,223,Profitable
+2019,March,West,Technology,20351.684,7766.565399999999,14,75,Profitable
+2019,May,Central,Furniture,4559.9662,398.53939999999966,11,43,Profitable
+2019,May,Central,Office Supplies,5555.784000000001,1082.3154999999997,22,164,Profitable
+2019,May,Central,Technology,1473.104,284.3367,8,27,Profitable
+2019,May,East,Furniture,2419.448,-71.51979999999998,13,51,Loss Making
+2019,May,East,Office Supplies,2218.583,510.9860999999999,21,99,Profitable
+2019,May,East,Technology,1481.3380000000002,404.4478,6,27,Profitable
+2019,May,South,Furniture,7056.576,37.143399999999914,8,37,Profitable
+2019,May,South,Office Supplies,2084.355,681.0355,20,104,Profitable
+2019,May,South,Technology,1802.8100000000002,364.55789999999996,7,31,Profitable
+2019,May,West,Furniture,2921.568,-437.04590000000013,12,53,Loss Making
+2019,May,West,Office Supplies,3878.242,879.3888999999998,28,177,Profitable
+2019,May,West,Technology,8809.336,2208.3972999999996,17,74,Profitable
+2019,November,Central,Furniture,5068.495999999999,-518.3203000000001,21,66,Loss Making
+2019,November,Central,Office Supplies,6016.6759999999995,-1839.8231,45,284,Loss Making
+2019,November,Central,Technology,4069.806,839.5479999999997,13,55,Profitable
+2019,November,East,Furniture,10882.994,263.4003999999996,23,129,Profitable
+2019,November,East,Office Supplies,12166.422,2937.9452999999994,51,277,Profitable
+2019,November,East,Technology,22584.222999999998,6188.9111,28,133,Profitable
+2019,November,South,Furniture,6950.545999999999,-119.17160000000004,13,54,Loss Making
+2019,November,South,Office Supplies,6310.291,939.9069999999996,34,209,Profitable
+2019,November,South,Technology,15456.584,-2445.542799999999,14,77,Loss Making
+2019,November,West,Furniture,14154.679,780.1551999999998,28,115,Profitable
+2019,November,West,Office Supplies,6978.948,1571.0736999999997,50,323,Profitable
+2019,November,West,Technology,7808.160000000001,1092.0207999999998,24,118,Profitable
+2019,October,Central,Furniture,3350.6982000000003,-721.5726000000002,12,58,Loss Making
+2019,October,Central,Office Supplies,4628.352,694.1561999999998,30,142,Profitable
+2019,October,Central,Technology,4143.286,624.9371,10,40,Profitable
+2019,October,East,Furniture,5788.802000000001,167.25399999999985,14,71,Profitable
+2019,October,East,Office Supplies,3576.604,710.7661999999999,33,171,Profitable
+2019,October,East,Technology,22939.793999999998,6759.861499999999,15,77,Profitable
+2019,October,South,Furniture,7142.368,-1510.1113,10,47,Loss Making
+2019,October,South,Office Supplies,3873.8070000000002,-863.5865000000002,18,131,Loss Making
+2019,October,South,Technology,1120.7759999999998,130.46279999999996,4,9,Profitable
+2019,October,West,Furniture,5602.2,-462.49040000000014,20,76,Loss Making
+2019,October,West,Office Supplies,10958.429,3499.4392,31,208,Profitable
+2019,October,West,Technology,4651.807,246.15929999999992,18,103,Profitable
+2019,September,Central,Furniture,5034.307,-553.4614000000001,12,61,Loss Making
+2019,September,Central,Office Supplies,4572.416,-312.97790000000026,36,222,Loss Making
+2019,September,Central,Technology,7736.274,1996.9054000000003,17,81,Profitable
+2019,September,East,Furniture,10993.651,1420.5381,18,106,Profitable
+2019,September,East,Office Supplies,8761.802000000001,-376.7032999999999,48,294,Loss Making
+2019,September,East,Technology,12660.645,1448.8115000000007,24,114,Profitable
+2019,September,South,Furniture,1309.2,153.84979999999996,6,18,Profitable
+2019,September,South,Office Supplies,7391.076,2022.3802,33,173,Profitable
+2019,September,South,Technology,1500.2440000000001,307.6314,9,38,Profitable
+2019,September,West,Furniture,11691.048,527.7571999999997,31,117,Profitable
+2019,September,West,Office Supplies,11170.549,3515.0447999999997,62,357,Profitable
+2019,September,West,Technology,5045.44,841.7798,22,79,Profitable
